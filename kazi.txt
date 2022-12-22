@@ -1,1 +1,4 @@
-Majia ya watu:
+Kazi tulizozifanya ni:
+Data cleaning
+Data importing
+
